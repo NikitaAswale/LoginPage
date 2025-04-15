@@ -85,7 +85,7 @@ fun LoginPage(){
         Spacer(modifier = Modifier.height(6.dp))
 
         Button(onClick = {}, modifier = Modifier.width(120.dp).height(50.dp)) {
-            Text(text = "Login")
+            Text(text = "__Login__")
         }
         Spacer(modifier = Modifier.height(16.dp))
         Text(text = "Sign Up | Forgot Password ?", modifier = Modifier.clickable {  })
